@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  Lagos, Nigeria
 * ✉️  You can contact me at [moyosoreolaleye@gmail.com](mailto:moyosoreolaleye@gmail.com)
 * 🧠  I'm learning Go
 
