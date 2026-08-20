@@ -6,8 +6,8 @@ Software Engineer
 -----------------
 
 * 🌍  Lagos, Nigeria
-* ✉️  You can contact me at [moyosoreolaleye@gmail.com](mailto:moyosoreolaleye@gmail.com)
-* 🧠  I'm learning Go
+* ✉️  [moyosoreolaleye@gmail.com](mailto:moyosoreolaleye@gmail.com)
+* 🧠  I'm ~~learning~~ done learning Go
 
 ### Skills
 
